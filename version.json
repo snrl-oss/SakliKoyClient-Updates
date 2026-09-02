@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "download": "https://github.com/snrl-oss/SakliKoyClient-Updates/raw/main/SakliKoyClient.exe",
+  "download": "https://raw.githubusercontent.com/snrl-oss/SakliKoyClient-Updates/main/SakliKoyClient.exe",
   "changelog": [
     "Otomatik güncelleme sistemi eklendi",
     "Launcher performansı geliştirildi"
